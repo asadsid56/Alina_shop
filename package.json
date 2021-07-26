@@ -1,0 +1,25 @@
+{
+  "name": "alina_shop",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/asadsid56/Alina_shop.git"
+  },
+  "keywords": [
+    "Shop"
+  ],
+  "author": "Alina",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/asadsid56/Alina_shop/issues"
+  },
+  "homepage": "https://github.com/asadsid56/Alina_shop#readme",
+  "dependencies": {
+    "bootstrap": "^5.0.2"
+  }
+}
